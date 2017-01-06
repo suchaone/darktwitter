@@ -9,6 +9,6 @@ a dark theme for twitter
 1. install [stylebot](https://chrome.google.com/webstore/detail/stylebot/oiaejidbmkiecgbjeifoejpgmdaleoha?hl=en), a chrome extension for customizing css on pages
 2. go to twitter.com
 3. click on the sylebot icon
-4. click on the edit cSS button
+4. click on the edit CSS button
 5. paste the contents of [this file](https://suchaone.github.io/darktwitter/style.css) into the text area
 6. click save
