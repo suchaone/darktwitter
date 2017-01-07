@@ -246,7 +246,7 @@ h1 {
 }
 
 .ProfileHeading-toggleItem.is-active, .ProfileHeading-toggleItem.is-active:hover, .ProfileHeading-toggleItem.is-active:focus {
-    color: #ddd;
+    color: #333;
 }
 
 .GridTimeline-footer {
