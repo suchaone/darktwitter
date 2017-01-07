@@ -214,9 +214,8 @@ h1.Icon {
     color: #999;
 }
 
-.ProfileSidebar a {
-    color: #ddd
-;
+.ProfileSidebar a, .ProfileSidebar a * {
+    color: #ddd;
 }
 
 .ProfileSidebar .Icon {
