@@ -187,14 +187,14 @@ h1.Icon {
     padding: 0 ;
 }
 
-.user-dropdown {
+.ProfileCanopy .user-dropdown {
     position: relative;
     height: 45px;
     width: 45px;
     padding: 0;
 }
 
-.user-dropdown-icon {
+.ProfileCanopy .user-dropdown-icon {
     position: absolute;
     line-height: 10px;
     top: 18px;
